@@ -1,6 +1,6 @@
 {
-  "sitename": "Bael",
-  "sitedescription": "A fashionable brutalist blog template using Netlify CMS and Nuxt.js.",
+  "sitename": "Loggia",
+  "sitedescription": "Chicago Based Advertising and Technology Company",
   "siteicon": "/images/uploads/icon.png",
   "showmenu": true,
   "emailsignup": true,
@@ -21,5 +21,6 @@
       "position": "3",
       "link": "https://www.netlify.com/"
     }
-  ]
+  ],
+  "linkcolor": "#f40000"
 }
